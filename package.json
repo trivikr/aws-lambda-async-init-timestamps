@@ -6,8 +6,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "watch": "tsc -w",
-    "cdk": "cdk"
+    "watch": "tsc -w"
   },
   "dependencies": {
     "aws-cdk-lib": "2.115.0",
@@ -16,7 +15,6 @@
   "devDependencies": {
     "@types/node": "20.10.4",
     "aws-cdk": "2.115.0",
-    "ts-node": "^10.9.2",
     "typescript": "~5.3.3"
   },
   "packageManager": "yarn@4.0.2"
