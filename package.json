@@ -1,9 +1,6 @@
 {
   "name": "aws-lambda-async-init-timestamps",
   "version": "0.1.0",
-  "bin": {
-    "app": "bin/app.js"
-  },
   "scripts": {
     "build": "tsc"
   },
